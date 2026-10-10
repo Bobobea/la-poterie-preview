@@ -5,7 +5,7 @@
 const SITE_CONFIG = {
   name: "Domaine de la Poterie",
   phone: "+33 6 99 21 89 41",
-  email: "", // À CONFIRMER — ex. "contact@domaine-de-la-poterie.fr"
+  email: "fabricearosio@gmail.com",
   airbnbUrl: "https://fr.airbnb.ca/rooms/24281059",
   address: "1370 Route de Pont-l’Évêque, 14800 Tourgéville, France"
 };
